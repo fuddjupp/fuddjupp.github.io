@@ -1,0 +1,1444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"borc",
+				"border-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"offs",
+				"offsetTop"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"Sc",
+				"scrollTop"
+			],
+			[
+				"scroll",
+				"scroller"
+			],
+			[
+				"rif",
+				"riftcontent"
+			],
+			[
+				"touch",
+				"touch"
+			],
+			[
+				"is",
+				"isLast"
+			],
+			[
+				"obef",
+				"overlapBefore"
+			],
+			[
+				"ova",
+				"overlapAfter"
+			],
+			[
+				"over",
+				"overlapBefore"
+			],
+			[
+				"twe",
+				"tween"
+			],
+			[
+				"fl",
+				"floeBefore"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"to",
+				"to	to"
+			],
+			[
+				"beast",
+				"beastLayerY"
+			],
+			[
+				"tw",
+				"tweenObj"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"expa",
+				"expanded"
+			],
+			[
+				"po",
+				"positionTop"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"move",
+				"moveContainer"
+			],
+			[
+				"switch",
+				"switches  (variable)"
+			],
+			[
+				"test",
+				"test2"
+			],
+			[
+				"script",
+				"SCRIPT"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"style",
+				"style	<style>"
+			],
+			[
+				"heigA",
+				"heightAdded"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"au",
+				"inherit  (value)"
+			],
+			[
+				"factc",
+				"divFactContainer"
+			],
+			[
+				"tl",
+				"tlMaster"
+			],
+			[
+				"ani",
+				"aniTop"
+			],
+			[
+				"heli",
+				"helixWidth"
+			],
+			[
+				"sto",
+				"stopAnimation"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"upi",
+				"updateIntro"
+			],
+			[
+				"hel",
+				"helixHeight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"add",
+				"add"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"backgi",
+				"background-image:   (property)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"appen",
+				"appendTo  (function)"
+			],
+			[
+				"helix",
+				"helixAmount"
+			],
+			[
+				"div",
+				"divHelixContainer"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"cont",
+				"content_width"
+			],
+			[
+				"cs",
+				"css  (function)"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"content",
+				"content_asset_path"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"color_st",
+				"color_standard"
+			],
+			[
+				"contain",
+				"containerTop"
+			],
+			[
+				"up",
+				"updateTimelineTween"
+			],
+			[
+				"con",
+				"yearsContainer"
+			],
+			[
+				"contai",
+				"containerTop"
+			],
+			[
+				"tween",
+				"tweenObject"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"squ",
+				"square_top"
+			],
+			[
+				"spa",
+				"spacerHeight"
+			],
+			[
+				"image_tim",
+				"image_timeline_marker"
+			],
+			[
+				"tim",
+				"timeline_width_mobile"
+			],
+			[
+				"time",
+				"timeline_width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"clea",
+				"clearInterval"
+			],
+			[
+				"mile",
+				"milestoneAfter"
+			],
+			[
+				"mi",
+				"milestoneBefore"
+			],
+			[
+				"mil",
+				"milestoneBefore"
+			],
+			[
+				"miles",
+				"milestone"
+			],
+			[
+				"get",
+				"getNearestMilestone"
+			],
+			[
+				"tlma",
+				"tlMasterOfScroll"
+			],
+			[
+				"upda",
+				"updateTimeline"
+			],
+			[
+				"upd",
+				"updateTimeline"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"scrip",
+				"script"
+			],
+			[
+				"scrol",
+				"scrollContent"
+			],
+			[
+				"myear",
+				"myYear"
+			],
+			[
+				"las",
+				"lastMilestone"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"conten",
+				"content_asset_path"
+			],
+			[
+				"color_nav",
+				"color_nav"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bar",
+				"color_bar"
+			],
+			[
+				"wid",
+				"page_width"
+			],
+			[
+				"styl",
+				"STYLE"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"re",
+				"no-repeat"
+			],
+			[
+				"hei",
+				"naviMainHeight"
+			],
+			[
+				"menu",
+				"menuL3"
+			],
+			[
+				"mai",
+				"naviMain"
+			],
+			[
+				"pre",
+				"preGradient"
+			],
+			[
+				"namain",
+				"naviMain"
+			],
+			[
+				"asse",
+				"bg_asset_path"
+			],
+			[
+				"navi",
+				"naviMain"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"na",
+				"naviMain"
+			],
+			[
+				"show",
+				"showSubMenu"
+			],
+			[
+				"hid",
+				"hideSubMenu"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"color_h",
+				"color_header_nav"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"hide",
+				"hideScrollUp"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bub",
+				"bubbleY"
+			],
+			[
+				"bubbl",
+				"bubble2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CNAME",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1421,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/screen.scss",
+			"settings":
+			{
+				"buffer_size": 1513,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"subliml",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"sublimel",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"cw",
+				"Compass: Watch"
+			],
+			[
+				"cow",
+				"Compass: Watch"
+			],
+			[
+				"com",
+				"Compass: Watch"
+			],
+			[
+				"htmle",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"htme",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"comp",
+				"Compass: Watch"
+			],
+			[
+				"comw",
+				"Compass: Watch"
+			],
+			[
+				"whi",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ty",
+				"TidyHTML"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"compw",
+				"Compass: Watch"
+			],
+			[
+				"tg",
+				"TGBCompass: Create"
+			],
+			[
+				"tgb",
+				"TGBCompass: Create"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"html e",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"browse p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"unit",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"c#",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"h",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ht",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"play",
+				"Set Syntax: Play Routes"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			]
+		],
+		"width": 562.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dave/Downloads/GridGallery/GridGallery/js/cbpGridGallery.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/villa_WP/.htaccess",
+		"/C/xampp-portable/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp-portable/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp-portable/apache/conf/httpd.conf",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_page.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/templates/pages/index.hbs",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/templates/pages/projects.hbs",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/templates/pages/jobs.hbs",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/templates/pages/contact.hbs",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_floe.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/Gruntfile.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/scripts/lug.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/contact.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/templates/partials/globalscripts.hbs",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/index.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/rar-admin-master/Gemfile.lock",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/rar-admin-master/config.ru",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/rar-admin-master/Gemfile",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/scripts/rift.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/screen.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/rar-admin-master/lib/tasks/festival.rake",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/mysql2-0.2.6-x86-mingw32/lib/mysql2/1.9/mysql2.so",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dave/Google Drive/Projects/java/eclipsews/barbgame/barb/src/com/zpl/view/WorldRenderer.java",
+		"/C/Users/Dave/Downloads/anchor-tooltips/demo/css/styles.css",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/scripts/main.js",
+		"/C/Users/Dave/Google Drive/Projects/java/eclipsews/barbgame/barb/src/com/zpl/Barb.java",
+		"/C/Users/Dave/Google Drive/Projects/java/eclipsews/barbgame/barb/src/com/zpl/screens/GameScreen.java",
+		"/C/Users/Dave/Google Drive/Projects/java/eclipsews/test/my-gdx-game/src/com/me/mygdxgame/MyGdxGame.java",
+		"/C/Users/Dave/Google Drive/Projects/java/eclipsews/wolv/wolv-android/assets/images/textures/textures.pack",
+		"/C/Users/Dave/Downloads/star-assault-part3/star-assault-part3/star-assault/src/net/obviam/starassault/screens/GameScreen.java",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/scripts/floe.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_header.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/templates/partials/header.hbs",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_mixins/_grid.scss",
+		"/C/Users/Dave/Google Drive/Projects/java/eclipsews/test/my-gdx-game-desktop/src/com/me/mygdxgame/Main.java",
+		"/C/Users/Dave/Desktop/adrian/index.html",
+		"/C/Users/Dave/Downloads/anchor-tooltips/demo/index.html",
+		"/C/Users/Dave/AppData/Local/Temp/Temp1_anchor-tooltips.zip/demo/css/styles.css",
+		"/C/Users/Dave/Dropbox/Projects/pure_data/myTree_tut.pd",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/projects.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_mixins/_typo.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.jshintrc",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/images/floe/floe_top_02.svg",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_pages/_projects.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/curlott.com/text.html",
+		"/C/users/dave/appdata/local/temp/sublime-sftp-browse-1389952569/TheGreenBeast/subdomain-kunden/bankhaus-metzler/index.html",
+		"/C/Users/Dave/Desktop/test.xml",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/images/floe/floe_bottom_01.svg",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/projects.html",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/index.html",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_pages/_start.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_pages/_projects.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/scripts/lug.js",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/scripts/main.js",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_floe.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/.jshintrc",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/screen.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_page.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_mixins/_colors.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_mixins/_images.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_header.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_footer.scss",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/npm-debug.log",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/package.json",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/node_modules/grunt-contrib-compass/node_modules/tmp/README.md",
+		"/C/Users/Dave/google Drive/Projects/htdocs/TGB-Website/.gitignore",
+		"/C/Users/Dave/google Drive/Projects/htdocs/tgb_gitprob/app/styles/_pages/_projects.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/scripts/project.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.npmignore",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/package.json",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_basics/_modules.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/bower_components/greensock-js/src/minified/plugins/ScrollToPlugin.min.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_modules/_typo.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/scripts/floes.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_basics/_typo.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/test-schollen.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/test/schollen.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.git/logs/HEAD",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.git/refs/heads/develop",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.git/refs/remotes/origin/develop",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/test-typo.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_basics/_props.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.config.rb",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/test-include.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/includes/test",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/includes/script.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.gitignore",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/bower.json",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/test-position-offset.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/includes/test.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/includes/include.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/includes/hallo.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/includes/neu.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/includes/include.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_basics/villa.sublime-project",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.git/refs/remotes/origin/HEAD",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/.git/logs/refs/remotes/origin/develop",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_layout.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/schollen.html",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/head-container.php",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/contact.php",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/single.php",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/header.php",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_basics.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/TGB-Website/app/styles/_basics/_colors.scss",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/style_tgb.css",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/yeoman_Test/app/scripts/hello.coffee",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/Yeoman_test01/Gruntfile.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/portfolio-custom-post-type.php",
+		"/C/Users/Dave/Downloads/de_DE/wp-config.php",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/metzlermicro201307/javascripts/script.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/metzlermicro201306_mensch/.gitignore",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/metzlermicro201305_it/javascripts/script.js",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/metzlermicro201305_it/index.html",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/Users/Dave/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Dave/Dropbox/Projects/IdeaProjects/Wolv_old/src/com/games/wolv/model/World.java",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/130108_metzler_kundenbeziehung/ProjectFiles/Dev/project/index.html",
+		"/C/ssh/publickey",
+		"/C/ssh/privatekey.ppk",
+		"/C/ssh/openssh",
+		"/C/Users/Dave/Google Drive/Projects/htdocs/tests/mediaqueryTest/index_minwidth.html",
+		"/C/Users/Dave/Downloads/star-assault-part3/star-assault-part3/star-assault/src/net/obviam/starassault/controller/BobController.java",
+		"/C/Users/Dave/Desktop/spine_test/spineboy.json"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br>",
+			"3px",
+			"6px",
+			"domain2",
+			"domain1",
+			"deineDomain",
+			"domain2",
+			"domain1",
+			"deineDomain",
+			"console",
+			"#rift-spacer-end",
+			"riftCount",
+			"yFacAfter",
+			"tweenObj",
+			"rift",
+			"getTweenObj",
+			"timeline",
+			"offsetTop",
+			"scrollTopDelayed",
+			"line",
+			"getTimeline",
+			"update",
+			"rifts",
+			"Rift",
+			"class=\"beast-laye",
+			"class=\"beast-layer",
+			"=\"beast-layer",
+			"rift",
+			"scrollTop",
+			"scrollto",
+			"scroll",
+			"thumb",
+			"Modernizr.touch || true",
+			"AllowOverride None",
+			"#LoadModule rewrite_module modules/mod_rewrite.so",
+			"\\",
+			"Modernizr.touch",
+			"scrollTo",
+			"scrollto",
+			"offset()",
+			"riftcontent.height()",
+			"360deg",
+			"yOffsett",
+			"set",
+			"yFacBefore",
+			"yFac",
+			"rift",
+			"for",
+			"noko",
+			"mysql",
+			"0.8.7",
+			"eventma",
+			"eventmachine",
+			"ol",
+			"105px",
+			"$floe-edge-width",
+			"console",
+			"overlap",
+			"data-floe-options='",
+			"data-floe-options=",
+			"60",
+			"120",
+			"210",
+			"Before",
+			".set",
+			"set",
+			"file:///C:/Users/Dave/Desktop/adrian/",
+			"150",
+			"100",
+			"155",
+			"255",
+			"100",
+			"255",
+			"45",
+			" style=\"box-shadow: 0px 0px 12px 4px rgba(173, 255, 0, 0.25);\"",
+			"animated",
+			"75",
+			"3",
+			"3s",
+			"animated",
+			"window",
+			"2s",
+			"animation-delay",
+			"movie",
+			"45",
+			"0.55",
+			"55",
+			"\n              0%   { box-shadow: 0px 0px 12px 4px rgba(255, 255, 131, 0.25); }\n              20% { box-shadow: 0px 0px 12px 4px rgba(255, 255, 131, 0.55); }\n              100%   { box-shadow: 0px 0px 12px 4px rgba(255, 255, 131, 0.25); }",
+			"window-blur ",
+			"250, 212, 62,",
+			"173, 255, 0, ",
+			"spin",
+			"ow-",
+			"r;",
+			"NAME-YOUR-ANIMATION",
+			"rgba(213, 106, 56, 0.25)",
+			"0px 0px 12px 4px rgba(209, 224, 30, 0.25)",
+			"0px 0px 25px 5px rgba(0, 255, 199, 0.15);",
+			"tween",
+			"Tween",
+			"tween",
+			"Tween",
+			"tween",
+			"Tween",
+			"tween",
+			"Tween",
+			"tween",
+			"Tween",
+			"tween",
+			"Tween",
+			"tween",
+			"5",
+			"nav",
+			"beast-layer",
+			"console.log",
+			"floeBefore",
+			"canTween",
+			"floeBefore",
+			"floe",
+			"rift",
+			"tween",
+			"twee",
+			"Content",
+			"floeContent",
+			".rift",
+			"floe",
+			".js",
+			"Floe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"helix_",
+			"($distance_to_content_left + $distance_to_content_right)",
+			"distance_to_content_left + $distance_to_content_right",
+			" left: 500px;",
+			"href=\"#\" data-layer=",
+			"<area class=\"mindmapHotspot\"",
+			"href=\"#\" data-layer=",
+			"<area class=\"mindmapHotspot\"",
+			"ref=\"#\" data-layer=",
+			"<area class=\"mindmapHotspot\"",
+			"Read more</a>",
+			"Read more/a>",
+			"href=\"#\" data-layer=",
+			"<area class=\"mindmapHotspot\"",
+			"Read more</a>",
+			"href=\"#\" data-layer=",
+			"<area class=\"mindmapHotspot\"",
+			"Read more",
+			"_blank",
+			"href=\"#\" data-layer=",
+			"<area class=\"mindmapHotspot\"",
+			"fsg_",
+			"#fsg_"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CNAME",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/screen.scss",
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 327.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 63.0
+	},
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 138.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"globa",
+				"app/templates/partials/globalscripts.hbs"
+			],
+			[
+				"cont",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/contact.php"
+			],
+			[
+				"aja",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/ajax-handler.php"
+			],
+			[
+				"tgb",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/style_tgb.css"
+			],
+			[
+				"tg",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/style_tgb.css"
+			],
+			[
+				"scrip",
+				"/C/Users/Dave/Downloads/beat-full-screen-responsive-wp-portfolio-theme/beat/beat/js/script.js"
+			],
+			[
+				"fo",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/footer.php"
+			],
+			[
+				"js",
+				"/C/Users/Dave/Downloads/beat-full-screen-responsive-wp-portfolio-theme/beat/beat/js/script.js"
+			],
+			[
+				"portfolio",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/portfolio.php"
+			],
+			[
+				"por",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/portfolio.php"
+			],
+			[
+				"co",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/contact.php"
+			],
+			[
+				"conta",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/contact.php"
+			],
+			[
+				"t",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/style_tgb.css"
+			],
+			[
+				"st",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/style_tgb.css"
+			],
+			[
+				"sty",
+				"/C/Users/Dave/Google Drive/Projects/htdocs/beat_friedeman/style_tgb.css"
+			],
+			[
+				"sublime-commands",
+				"Packages/Default/Default.sublime-commands"
+			],
+			[
+				"fullscreenscss",
+				"public/sass/fullScreenImageGallery_styles.scss"
+			],
+			[
+				"gal",
+				"public/javascripts/components/FullScreenImageGallery.class.js"
+			],
+			[
+				"gene",
+				"public/javascripts/utils/general.js"
+			],
+			[
+				"fullsc",
+				"public/sass/fullScreenImageGallery_styles.scss"
+			],
+			[
+				"fullgallscss",
+				"public/sass/fullScreenImageGallery_styles.scss"
+			],
+			[
+				"fullscr",
+				"public/javascripts/components/FullScreenImageGallery.class.js"
+			],
+			[
+				"galle",
+				"public/stylesheets/fullScreenImageGallery_styles.css"
+			],
+			[
+				"fulls",
+				"public/stylesheets/fullScreenImageGallery_styles.css"
+			],
+			[
+				"imagevie",
+				"public/sass/fullScreenImageViewer_styles.scss"
+			],
+			[
+				"imagvie",
+				"public/javascripts/components/FullScreenImageViewer.class.js"
+			],
+			[
+				"",
+				"/C/Users/Dave/Desktop/paul.html"
+			],
+			[
+				"galleryscss",
+				"public/sass/fullScreenImageGallery_styles.scss"
+			],
+			[
+				"gen",
+				"public/javascripts/utils/general.js"
+			],
+			[
+				"fullscreenjs",
+				"public/javascripts/components/FullScreenImageGallery.class.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}
